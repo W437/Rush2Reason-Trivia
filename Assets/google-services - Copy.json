@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191178982434",
+    "firebase_url": "https://trivia-3d5ef-default-rtdb.firebaseio.com",
+    "project_id": "trivia-3d5ef",
+    "storage_bucket": "trivia-3d5ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191178982434:android:76e440d943bbc878ff367b",
+        "android_client_info": {
+          "package_name": "com.LateCoffee.Trivial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191178982434-d0u5oa4oe9qldq4re655rsbtu7roj8ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKJGSNmfXDkEIoaZhaIBQdS9q4O17wFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191178982434-d0u5oa4oe9qldq4re655rsbtu7roj8ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191178982434-9j2jl2olb60jfq2ud0jlsmra5jihhukr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LateCoffee.Trivial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
